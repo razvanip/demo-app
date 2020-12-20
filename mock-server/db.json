@@ -1,3 +1,132 @@
 {
-  "residences": []
+  "residences": [
+    {
+      "zipCode": "12",
+      "number": "2",
+      "latitude": "12",
+      "longitude": "121",
+      "numberOfResidences": "21",
+      "id": 1
+    },
+    {
+      "zipCode": "12",
+      "number": "2",
+      "latitude": "12",
+      "longitude": "121",
+      "numberOfResidences": "21",
+      "id": 2
+    },
+    {
+      "zipCode": "12121",
+      "number": "21",
+      "latitude": "21",
+      "longitude": "2",
+      "numberOfResidences": "121",
+      "id": 3
+    },
+    {
+      "zipCode": "12121",
+      "number": "21",
+      "latitude": "21",
+      "longitude": "2",
+      "numberOfResidences": "121",
+      "id": 4
+    },
+    {
+      "zipCode": "12",
+      "number": "21",
+      "latitude": "21",
+      "longitude": "21",
+      "numberOfResidences": "21",
+      "id": 5
+    },
+    {
+      "zipCode": "12",
+      "number": "21",
+      "latitude": "21",
+      "longitude": "21",
+      "numberOfResidences": "21",
+      "id": 6
+    },
+    {
+      "zipCode": "12",
+      "number": "2",
+      "latitude": "121",
+      "longitude": "21",
+      "numberOfResidences": "21",
+      "id": 7
+    },
+    {
+      "zipCode": "12",
+      "number": "2",
+      "latitude": "121",
+      "longitude": "21",
+      "numberOfResidences": "21",
+      "id": 8
+    },
+    {
+      "zipCode": "121",
+      "number": "21",
+      "latitude": "2",
+      "longitude": "12",
+      "numberOfResidences": "121",
+      "id": 9
+    },
+    {
+      "zipCode": "121",
+      "number": "21",
+      "latitude": "2",
+      "longitude": "12",
+      "numberOfResidences": "121",
+      "id": 10
+    },
+    {
+      "zipCode": "121",
+      "number": "21",
+      "latitude": "2",
+      "longitude": "12",
+      "numberOfResidences": "121",
+      "id": 11
+    },
+    {
+      "zipCode": "1",
+      "number": "21",
+      "latitude": "2",
+      "longitude": "12",
+      "numberOfResidences": "121",
+      "id": 12
+    },
+    {
+      "zipCode": "12",
+      "number": "2",
+      "latitude": "121",
+      "longitude": "21",
+      "numberOfResidences": "21",
+      "id": 13
+    },
+    {
+      "zipCode": "12",
+      "number": "2",
+      "latitude": "12",
+      "longitude": "12",
+      "numberOfResidences": "121",
+      "id": 14
+    },
+    {
+      "zipCode": "12",
+      "number": "2",
+      "latitude": "12",
+      "longitude": "12",
+      "numberOfResidences": "121",
+      "id": 15
+    },
+    {
+      "zipCode": "12",
+      "number": "2",
+      "latitude": "12",
+      "longitude": "12",
+      "numberOfResidences": "121",
+      "id": 16
+    }
+  ]
 }
