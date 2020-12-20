@@ -1,0 +1,19 @@
+.required {
+  position: absolute;
+  display: inline-block;
+  margin-left: 5px;
+  margin-top: 5px;
+  width: 5px;
+  height: 5px;
+  border-radius: 50%;
+  background-color: red;
+}
+
+.required--after {
+  margin-left: 5px;
+  margin-top: 5px;
+  width: 5px;
+  height: 5px;
+  border-radius: 50%;
+  background-color: red;
+}

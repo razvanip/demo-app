@@ -1,0 +1,12 @@
+.input {
+  width: 100%;
+  padding: 10px;
+}
+
+.input--error {
+  border: 1px solid red;
+}
+
+.input--success {
+  border: 1px solid green;
+}
