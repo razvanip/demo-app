@@ -1,11 +1,11 @@
-import React, { useCallback } from "react";
+import React from "react";
 import { Field as FieldFinalForm } from "react-final-form";
 import getValidations from "../validations/get-validations";
 
 const Field = ({ name, label, required, disabled, validate, component }) => {
   const FieldComponent = component;
 
-  const validations = useCallback(getValidations(validate), [validate]);
+  const validations = getValidations(validate);
 
   return (
     <FieldFinalForm

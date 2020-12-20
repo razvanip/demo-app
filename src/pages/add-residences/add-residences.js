@@ -25,9 +25,9 @@ const AddResidences = () => {
     return <div>COULD NOT CREATE RESIDENCE</div>;
   }
 
+  // todo: a notification or a modal would be nice
   return (
     <div className="add-residences">
-      // todo: a notification or a modal would be nice
       {created && (
         <div>Added residence with ID {data && data.createResidence.id}</div>
       )}

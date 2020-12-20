@@ -1,5 +1,5 @@
 import React, { Children, cloneElement, isValidElement } from "react";
-import { has, any, map, pipe, gt, length, __, propEq } from "ramda";
+import { any, map, pipe, gt, length, __, propEq } from "ramda";
 import Label from "../label";
 import Required from "../required";
 import Message from "../message";
