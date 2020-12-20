@@ -127,6 +127,46 @@
       "longitude": "12",
       "numberOfResidences": "121",
       "id": 16
+    },
+    {
+      "zipCode": "12",
+      "number": "21",
+      "latitude": "2",
+      "longitude": "121",
+      "numberOfResidences": "21",
+      "id": 17
+    },
+    {
+      "zipCode": "12",
+      "number": "11",
+      "latitude": "2",
+      "longitude": "11",
+      "numberOfResidences": "22",
+      "id": 18
+    },
+    {
+      "zipCode": "12",
+      "number": "11",
+      "latitude": "2",
+      "longitude": "11",
+      "numberOfResidences": "22",
+      "id": 19
+    },
+    {
+      "zipCode": "11",
+      "number": "2",
+      "latitude": "121",
+      "longitude": "2",
+      "numberOfResidences": "21",
+      "id": 20
+    },
+    {
+      "zipCode": "11",
+      "number": "1",
+      "latitude": "1",
+      "longitude": "1",
+      "numberOfResidences": "1",
+      "id": 21
     }
   ]
 }

@@ -1,3 +1,28 @@
+## Description
+- Project uses `ramda` and not `lodash` as an `utility` library, ramda has more support for `fp` then `lodash` 
+- Project uses react-final-forms.\
+It's not necessary for this project, transforming form components to `controlled` and handling internal state and `error` states would have resulted in a lot of `boilerplate`.\
+It's better suited for larger projects with more forms.
+- Project uses `apollo` over `redux` for `state` `management`\
+ Can easily switch to `graphql` server instead of `rest`.\
+ Less boilerplate (action-creators, action, reducer, store), no need for custom middlewares for optimistic updates or to handle async `actions` or extra libs like `thunk`
+
+## Evaluation
+- there is still a lot of work remaining
+- add tests with `react-testing-library`
+- add snapshots
+- maybe add visual regression support with via jest for `atomic` components (forms)
+- refactor `pages` better separate concerns, `container` components and use `composition` better
+- there is room for improvements when it comes to `dry` when rendering the `Fields` in the form we can easily setup a map over a list of `fields` with properties
+- haven't used `create-react-app` in years @ my job we have our internal `runtime` and `cli` similar to `create-react-app` but custom for our project needs, and it looks u need to have extra setup required for `postcss` `scss`
+- refactor based on postcss the `styling` with better `BEM` support.
+- map can be improved a lot added some todo's on what can be improved in the `future`
+- design is required :) to have the app look professional.
+- add mobile `first` support.
+- we can even prepare this for `native as well` so we can share the code 90% if we plan to have the app work on `react-native` as well.
+- if this is a public website maybe we should switch to next.js or just add `SSR` support.
+- the list is long...
+ 
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +93,5 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `yarn build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
