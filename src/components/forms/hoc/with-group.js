@@ -3,7 +3,7 @@ import Group from "../group";
 
 const withGroup = (
   WrappedComponent,
-  labelPosition = "after",
+  labelPosition = "before",
   type = "input"
 ) => {
   const withGroupComponent = (props) => {
